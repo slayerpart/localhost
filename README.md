@@ -1,4 +1,4 @@
 ## Alfred localhost workflow
 
-- Usage: ln [PORT_NO]
-- Example: ln 8080 opens ```http://localhost:8080/```
+- Usage: lh [PORT_NO]
+- Example: lh 8080 opens ```http://localhost:8080/```
